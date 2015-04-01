@@ -1,0 +1,258 @@
+0 info it worked if it ends with ok
+1 verbose cli [ '/usr/bin/node', '/usr/bin/npm', 'install', 'hexo', '-g' ]
+2 info using npm@2.1.8
+3 info using node@v0.10.33
+4 silly cache add args [ 'hexo', null ]
+5 verbose cache add spec hexo
+6 silly cache add parsed spec { raw: 'hexo',
+6 silly cache add   scope: null,
+6 silly cache add   name: 'hexo',
+6 silly cache add   rawSpec: '',
+6 silly cache add   spec: '*',
+6 silly cache add   type: 'range' }
+7 verbose addNamed hexo@*
+8 silly addNamed semver.valid null
+9 silly addNamed semver.validRange *
+10 silly addNameRange { name: 'hexo', range: '*', hasData: false }
+11 silly mapToRegistry name hexo
+12 silly mapToRegistry using default registry
+13 silly mapToRegistry registry https://registry.npmjs.org/
+14 silly mapToRegistry uri https://registry.npmjs.org/hexo
+15 verbose addNameRange registry:https://registry.npmjs.org/hexo not in flight; fetching
+16 verbose request uri https://registry.npmjs.org/hexo
+17 verbose request no auth needed
+18 info attempt registry request try #1 at 09:00:41
+19 verbose request id ab09b4601e8116b9
+20 verbose etag "ELV3WGSHJ08VXVSM837L77Z4Y"
+21 http request GET https://registry.npmjs.org/hexo
+22 http 304 https://registry.npmjs.org/hexo
+23 silly get cb [ 304,
+23 silly get   { date: 'Fri, 14 Nov 2014 10:57:33 GMT',
+23 silly get     server: 'Apache',
+23 silly get     via: '1.1 varnish',
+23 silly get     'last-modified': 'Fri, 14 Nov 2014 10:57:33 GMT',
+23 silly get     'cache-control': 'max-age=60',
+23 silly get     etag: '"ELV3WGSHJ08VXVSM837L77Z4Y"',
+23 silly get     age: '0',
+23 silly get     'x-served-by': 'cache-iad2121-IAD',
+23 silly get     'x-cache': 'MISS',
+23 silly get     'x-cache-hits': '0',
+23 silly get     'x-timer': 'S1415962653.308900,VS0,VE15',
+23 silly get     vary: 'Accept',
+23 silly get     'content-length': '0',
+23 silly get     'keep-alive': 'timeout=10, max=50',
+23 silly get     connection: 'Keep-Alive' } ]
+24 verbose etag https://registry.npmjs.org/hexo from cache
+25 silly addNameRange number 2 { name: 'hexo', range: '*', hasData: true }
+26 silly addNameRange versions [ 'hexo',
+26 silly addNameRange   [ '0.0.1',
+26 silly addNameRange     '0.0.2',
+26 silly addNameRange     '0.0.3',
+26 silly addNameRange     '0.0.4',
+26 silly addNameRange     '0.0.5',
+26 silly addNameRange     '0.0.6',
+26 silly addNameRange     '0.1.0',
+26 silly addNameRange     '0.1.1',
+26 silly addNameRange     '0.1.2',
+26 silly addNameRange     '0.1.3',
+26 silly addNameRange     '0.1.4',
+26 silly addNameRange     '0.1.5',
+26 silly addNameRange     '0.1.6',
+26 silly addNameRange     '0.1.7',
+26 silly addNameRange     '0.1.8',
+26 silly addNameRange     '0.1.9',
+26 silly addNameRange     '0.1.10',
+26 silly addNameRange     '0.1.11',
+26 silly addNameRange     '0.2.0',
+26 silly addNameRange     '0.2.1',
+26 silly addNameRange     '0.3.0',
+26 silly addNameRange     '0.3.1',
+26 silly addNameRange     '0.3.2',
+26 silly addNameRange     '0.4.0',
+26 silly addNameRange     '0.4.1',
+26 silly addNameRange     '0.4.2',
+26 silly addNameRange     '0.4.3',
+26 silly addNameRange     '0.4.4',
+26 silly addNameRange     '0.4.5',
+26 silly addNameRange     '0.5.0',
+26 silly addNameRange     '0.5.1',
+26 silly addNameRange     '0.5.2',
+26 silly addNameRange     '0.5.3',
+26 silly addNameRange     '0.5.4',
+26 silly addNameRange     '0.5.5',
+26 silly addNameRange     '0.5.6',
+26 silly addNameRange     '0.5.7',
+26 silly addNameRange     '0.5.8',
+26 silly addNameRange     '0.5.9',
+26 silly addNameRange     '0.5.10',
+26 silly addNameRange     '0.5.11',
+26 silly addNameRange     '0.5.12',
+26 silly addNameRange     '1.0.0',
+26 silly addNameRange     '1.0.1',
+26 silly addNameRange     '1.0.2',
+26 silly addNameRange     '1.0.3',
+26 silly addNameRange     '1.0.4',
+26 silly addNameRange     '1.0.5',
+26 silly addNameRange     '1.0.6',
+26 silly addNameRange     '1.0.7',
+26 silly addNameRange     '1.0.8',
+26 silly addNameRange     '1.0.9',
+26 silly addNameRange     '1.1.0',
+26 silly addNameRange     '1.1.1',
+26 silly addNameRange     '1.1.2',
+26 silly addNameRange     '1.1.3',
+26 silly addNameRange     '1.1.4',
+26 silly addNameRange     '1.2.0',
+26 silly addNameRange     '1.2.1',
+26 silly addNameRange     '1.2.2',
+26 silly addNameRange     '1.2.3',
+26 silly addNameRange     '1.2.4',
+26 silly addNameRange     '2.0.0-beta2',
+26 silly addNameRange     '2.0.0-rc1',
+26 silly addNameRange     '2.0.0-rc2',
+26 silly addNameRange     '2.0.0-beta1',
+26 silly addNameRange     '2.0.0-rc3',
+26 silly addNameRange     '2.0.0',
+26 silly addNameRange     '2.0.1',
+26 silly addNameRange     '2.0.2',
+26 silly addNameRange     '2.0.3',
+26 silly addNameRange     '2.0.4',
+26 silly addNameRange     '2.0.5',
+26 silly addNameRange     '2.0.6',
+26 silly addNameRange     '2.0.7',
+26 silly addNameRange     '2.1.0',
+26 silly addNameRange     '2.1.1',
+26 silly addNameRange     '2.2.0',
+26 silly addNameRange     '2.2.1',
+26 silly addNameRange     '2.3.0',
+26 silly addNameRange     '2.4.0',
+26 silly addNameRange     '2.4.1',
+26 silly addNameRange     '2.4.2',
+26 silly addNameRange     '2.4.3',
+26 silly addNameRange     '2.4.4',
+26 silly addNameRange     '2.4.5',
+26 silly addNameRange     '2.5.1',
+26 silly addNameRange     '2.5.2',
+26 silly addNameRange     '2.5.3',
+26 silly addNameRange     '2.5.4',
+26 silly addNameRange     '2.5.5',
+26 silly addNameRange     '2.5.6',
+26 silly addNameRange     '2.5.7',
+26 silly addNameRange     '2.6.0',
+26 silly addNameRange     '2.6.1',
+26 silly addNameRange     '2.6.2',
+26 silly addNameRange     '2.6.3',
+26 silly addNameRange     '2.7.0',
+26 silly addNameRange     '2.7.1',
+26 silly addNameRange     '2.8.0',
+26 silly addNameRange     '2.8.1',
+26 silly addNameRange     '2.8.2',
+26 silly addNameRange     '2.8.3' ] ]
+27 verbose addNamed hexo@2.8.3
+28 silly addNamed semver.valid 2.8.3
+29 silly addNamed semver.validRange 2.8.3
+30 silly cache afterAdd hexo@2.8.3
+31 verbose afterAdd /home/evsasse/.npm/hexo/2.8.3/package/package.json not in flight; writing
+32 verbose afterAdd /home/evsasse/.npm/hexo/2.8.3/package/package.json written
+33 silly install resolved [ { name: 'hexo',
+33 silly install resolved     version: '2.8.3',
+33 silly install resolved     description: 'A fast, simple & powerful blog framework, powered by Node.js.',
+33 silly install resolved     main: 'lib/hexo',
+33 silly install resolved     bin: { hexo: './bin/hexo' },
+33 silly install resolved     scripts: { test: 'gulp test' },
+33 silly install resolved     directories: { lib: './lib', bin: './bin' },
+33 silly install resolved     engines: { node: '>= 0.10.0' },
+33 silly install resolved     repository: { type: 'git', url: 'git://github.com/hexojs/hexo.git' },
+33 silly install resolved     bugs: { url: 'https://github.com/hexojs/hexo/issues' },
+33 silly install resolved     homepage: 'http://hexo.io/',
+33 silly install resolved     keywords: [ 'website', 'blog', 'cms', 'framework', 'hexo' ],
+33 silly install resolved     author:
+33 silly install resolved      { name: 'Tommy Chen',
+33 silly install resolved        email: 'tommy351@gmail.com',
+33 silly install resolved        url: 'http://zespia.tw' },
+33 silly install resolved     license: 'MIT',
+33 silly install resolved     dependencies:
+33 silly install resolved      { async: '^0.9.0',
+33 silly install resolved        cheerio: '0.17.0',
+33 silly install resolved        chokidar: '0.8.2',
+33 silly install resolved        colors: '0.6.2',
+33 silly install resolved        compression: '^1.0.3',
+33 silly install resolved        connect: '3.x',
+33 silly install resolved        'graceful-fs': '^3.0.2',
+33 silly install resolved        'hexo-front-matter': '0.0.4',
+33 silly install resolved        'highlight.js': '8.1.0',
+33 silly install resolved        'js-yaml': '^3.1.0',
+33 silly install resolved        lodash: '^2.4.1',
+33 silly install resolved        mime: '^1.2.11',
+33 silly install resolved        minimist: '0.2.0',
+33 silly install resolved        moment: '^2.8.1',
+33 silly install resolved        morgan: '^1.1.1',
+33 silly install resolved        'serve-static': '^1.2.0',
+33 silly install resolved        'sprintf-js': '0.0.7',
+33 silly install resolved        'strip-indent': '^0.1.3',
+33 silly install resolved        swig: '1.4.1',
+33 silly install resolved        warehouse: '0.2.2' },
+33 silly install resolved     devDependencies:
+33 silly install resolved      { mocha: '^1.20.1',
+33 silly install resolved        chai: '^1.9.1',
+33 silly install resolved        gulp: '^3.6.2',
+33 silly install resolved        'gulp-jshint': '^1.5.5',
+33 silly install resolved        'gulp-mocha': '^0.5.1',
+33 silly install resolved        'jshint-stylish': '^0.4.0' },
+33 silly install resolved     gitHead: '9779191fead4f590a96f7f0dd4ba1b94ec29c025',
+33 silly install resolved     _id: 'hexo@2.8.3',
+33 silly install resolved     _shasum: '79eb17e64b73b25d4e7abc565e039ca107cef802',
+33 silly install resolved     _from: 'hexo@*',
+33 silly install resolved     _npmVersion: '1.4.23',
+33 silly install resolved     _npmUser: { name: 'tommy351', email: 'tommy351@gmail.com' },
+33 silly install resolved     maintainers: [ [Object] ],
+33 silly install resolved     dist:
+33 silly install resolved      { shasum: '79eb17e64b73b25d4e7abc565e039ca107cef802',
+33 silly install resolved        tarball: 'http://registry.npmjs.org/hexo/-/hexo-2.8.3.tgz' },
+33 silly install resolved     _resolved: 'https://registry.npmjs.org/hexo/-/hexo-2.8.3.tgz',
+33 silly install resolved     readme: 'ERROR: No README data found!' } ]
+34 info install hexo@2.8.3 into /usr/lib
+35 info installOne hexo@2.8.3
+36 verbose installOne of hexo to /usr/lib not in flight; installing
+37 verbose lock using /home/evsasse/.npm/_locks/hexo-4ded2cf5ea4a8daa.lock for /usr/lib/node_modules/hexo
+38 silly install write writing hexo 2.8.3 to /usr/lib/node_modules/hexo
+39 silly cache addNamed cb hexo@2.8.3
+40 verbose unbuild lib/node_modules/hexo
+41 verbose gentlyRm vacuuming /usr/lib/node_modules/hexo
+42 verbose tar unpack /home/evsasse/.npm/hexo/2.8.3/package.tgz
+43 verbose tar unpacking to /usr/lib/node_modules/hexo
+44 verbose gentlyRm vacuuming /usr/lib/node_modules/hexo
+45 silly gunzTarPerm modes [ '755', '644' ]
+46 error tar.unpack untar error /home/evsasse/.npm/hexo/2.8.3/package.tgz
+47 verbose unlock done using /home/evsasse/.npm/_locks/hexo-4ded2cf5ea4a8daa.lock for /usr/lib/node_modules/hexo
+48 verbose fstream_path /usr/lib/node_modules/hexo
+49 verbose fstream_type Directory
+50 verbose fstream_class DirWriter
+51 verbose stack Error: EACCES, mkdir '/usr/lib/node_modules/hexo'
+52 verbose fstream_stack /usr/lib/node_modules/npm/node_modules/fstream/lib/dir-writer.js:36:23
+52 verbose fstream_stack /usr/lib/node_modules/npm/node_modules/mkdirp/index.js:46:53
+52 verbose fstream_stack Object.oncomplete (fs.js:107:15)
+53 verbose cwd /home/evsasse/public_html/sitepet
+54 error Linux 3.17.2-1-ARCH
+55 error argv "/usr/bin/node" "/usr/bin/npm" "install" "hexo" "-g"
+56 error node v0.10.33
+57 error npm  v2.1.8
+58 error path /usr/lib/node_modules/hexo
+59 error code EACCES
+60 error errno 3
+61 error Error: EACCES, mkdir '/usr/lib/node_modules/hexo'
+61 error  { [Error: EACCES, mkdir '/usr/lib/node_modules/hexo']
+61 error   errno: 3,
+61 error   code: 'EACCES',
+61 error   path: '/usr/lib/node_modules/hexo',
+61 error   fstream_type: 'Directory',
+61 error   fstream_path: '/usr/lib/node_modules/hexo',
+61 error   fstream_class: 'DirWriter',
+61 error   fstream_stack:
+61 error    [ '/usr/lib/node_modules/npm/node_modules/fstream/lib/dir-writer.js:36:23',
+61 error      '/usr/lib/node_modules/npm/node_modules/mkdirp/index.js:46:53',
+61 error      'Object.oncomplete (fs.js:107:15)' ] }
+62 error Please try running this command again as root/Administrator.
+63 verbose exit [ 3, true ]
+64 verbose unbuild lib/node_modules/hexo
+65 verbose gentlyRm vacuuming /usr/lib/node_modules/hexo
