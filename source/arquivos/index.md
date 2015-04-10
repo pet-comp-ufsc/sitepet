@@ -7,3 +7,4 @@ date: 2014-11-24 13:37:54
 
 ## Apresentações
 * [Unix - SECAL](https://github.com/pet-comp-ufsc/unix-secal)
+* [Linux Crash Course](https://github.com/MatheusBen-Hur/Unix-Class)
