@@ -7,3 +7,6 @@ Estaremos oferencendo a partir desta 5ª feira (09/04) um minicurso sobre Linux,
 
 
 **As inscrições já foram encerradas.**
+
+
+** [Você pode ver os slides aqui](https://github.com/MatheusBen-Hur/Unix-Class) **
