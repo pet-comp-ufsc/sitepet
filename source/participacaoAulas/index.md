@@ -1,8 +1,0 @@
-title: Participação em Disciplinas do curso
-date: 2014-11-24 15:12:28
----
-Esta atividade tem como principal objetivo a interação dos bolsistas do PET Computação com a comunidade acadêmica do curso através da laboração/apresentação/acompanhamento de exercícios e/ou atividades práticas relacionadas aos conteúdos programáticos das disciplinas com participação dos bolsistas. Tanto os exercícios quanto as atividades práticas serão elaboradas com base na realidade em que tais assuntos são encontrados no dia a dia de um profissional da área da computação, visando aproximar o acadêmico de computação da realidade além da universidade.
-<br/>
-A atividade foi planejada no planejamento de 2010 pela primeira vez e foi realizada pelo PET Computação no segundo semestre do ano de 2010. Do ponto de vista acadêmico é importante que os alunos, principalmente nas fases iniciais, tenham contato com as experiências de outros colegas de curso que já tenham um certo conhecimento dos conteúdos do curso e da realidade dessas disciplinas no mercado de trabalho. Isso pode ter um efeito extremamente positivo no que diz respeito à redução dos índices de desistência e evasão do curso. Além disso, no que diz respeito ao grupo, é também uma oportunidade de exercitar práticas didáticas e expressar o conhecimento adquirido no curso.
-<br/>
-**Resultados esperados com a atividade:** Apresentar aos alunos das disciplinas com participação de bolsistas exercícios e/ou atividades práticas pertinentes ao tema da disciplina, objetivando o esclarecimento dos mesmos quanto as características de cada tema e suas possíveis dificuldades. Dessa forma, busca-se a diminuição dos índices de desistência e evasão do curso. Integração dos calouros e bolsistas PET.
