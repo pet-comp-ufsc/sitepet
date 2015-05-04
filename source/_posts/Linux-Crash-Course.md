@@ -10,3 +10,5 @@ Estaremos oferencendo a partir desta 5ª feira (09/04) um minicurso sobre Linux,
 
 
 ** [Você pode ver os slides aqui](https://github.com/pet-comp-ufsc/linux-crash-course) **
+
+** Em breve disponibilizaremos os certificados!**
