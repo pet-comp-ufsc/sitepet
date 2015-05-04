@@ -1,0 +1,20 @@
+
+<div id="page-heading-wrap">
+  	<div class="inner">
+      <div class="padding">
+    		<% if (page.layout == 'post') { %>
+          <h1><%= page.title %></h1>
+          <ul>
+            <li>
+              <span class="heading-span">Postado em: </span>
+              <time datetime="<%= page.date.toDate().toISOString() %>"><%= page.date.format(config.date_format) %></time>
+            </li>
+          </ul>
+        <% } else if(page.layout == 'page'){ %>
+          <h1><%= page.title %></h1>
+        <% } else { %>
+          <h2><% if (config.subtitle){ %><%= config.subtitle %><% } %></h2>
+        <% } %>
+      </div>
+  	</div>
+  </div>
