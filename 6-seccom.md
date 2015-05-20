@@ -1,4 +1,4 @@
 ---
 title: SECCOM
-permanlink: seccom/
+permalink: /seccom/
 ---
