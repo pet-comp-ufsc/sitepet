@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>PET Computação</title>
+    <description>Ciências da Computação e Sistemas de Informação</description>
+    <link>http://pet.inf.ufsc.br/~evsasse/sitepet/_site/</link>
+    <atom:link href="http://pet.inf.ufsc.br/~evsasse/sitepet/_site/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Wed, 20 May 2015 19:21:04 -0300</pubDate>
+    <lastBuildDate>Wed, 20 May 2015 19:21:04 -0300</lastBuildDate>
+    <generator>Jekyll v2.5.3</generator>
+    
+      <item>
+        <title>Linux Crash Course</title>
+        <description>&lt;p&gt;Estaremos oferencendo a partir desta 5ª feira (09/04) um minicurso sobre Linux, com duração de 3 dias (9, 16 e 23 de abril), o minicursos será na sala INE314 às 18:30.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;As inscrições já foram encerradas.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Em breve disponibilizaremos os certificados.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;** &lt;a href=&quot;https://github.com/pet-comp-ufsc/linux-crash-course&quot;&gt;Você pode ver os slides aqui&lt;/a&gt; **&lt;/p&gt;
+</description>
+        <pubDate>Wed, 08 Apr 2015 07:55:12 -0300</pubDate>
+        <link>http://pet.inf.ufsc.br/~evsasse/sitepet/_site/2015/04/08/linux-crash-course.html</link>
+        <guid isPermaLink="true">http://pet.inf.ufsc.br/~evsasse/sitepet/_site/2015/04/08/linux-crash-course.html</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Certificados e Questionário do Minicurso de Computação de Alto Desempenho</title>
+        <description>&lt;p&gt;Os certificados podem ser encontrados em http://www.certificado.prpe.ufsc.br/&lt;/p&gt;
+
+&lt;p&gt;E gostariamos que os participantes respondessem um questionário para avaliarmos oque vocês acharam do minicurso: http://goo.gl/Y83LcB&lt;/p&gt;
+</description>
+        <pubDate>Mon, 16 Mar 2015 06:21:54 -0300</pubDate>
+        <link>http://pet.inf.ufsc.br/~evsasse/sitepet/_site/2015/03/16/Certificados-e-Questionario-do-Minicurso-de-Computacao-de-Alto-Desempenho.html</link>
+        <guid isPermaLink="true">http://pet.inf.ufsc.br/~evsasse/sitepet/_site/2015/03/16/Certificados-e-Questionario-do-Minicurso-de-Computacao-de-Alto-Desempenho.html</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Inscrições abertas para o PET 2015/1</title>
+        <description>&lt;p&gt;Você acessar o formulário de inscrições pelo seguinte link: http://goo.gl/forms/avAGm6gpOs&lt;/p&gt;
+</description>
+        <pubDate>Mon, 09 Mar 2015 06:23:16 -0300</pubDate>
+        <link>http://pet.inf.ufsc.br/~evsasse/sitepet/_site/2015/03/09/Inscricoes-abertas-para-PET.html</link>
+        <guid isPermaLink="true">http://pet.inf.ufsc.br/~evsasse/sitepet/_site/2015/03/09/Inscricoes-abertas-para-PET.html</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Oficina de Computação de Alto Desempenho</title>
+        <description>&lt;p&gt;Nessa oficina serão tratados os principais assuntos relacionados à Computação de Alto Desempenho, com foco principal no desenvolvimento de aplicações para sistemas baseados em memória compartilhada utilizando a API OpenMP. Os alunos serão estimulados a desenvolver programas paralelos que permitam explorar os recursos oferecidos em computadores de alto desempenho com dezenas a centenas de núcleos de processamento.&lt;/p&gt;
+
+&lt;p&gt;=&amp;gt; Local e datas:
+Datas: 3, 4 e 5 de Março de 2015
+Horário: no dia 3 das 8h30 às 10h30 e nos dias 4 e 5 das 8h30 às 11h30
+Local: laboratório PCT (Sala 101 do INE)&lt;/p&gt;
+
+&lt;p&gt;Link para inscrição: http://goo.gl/forms/6fcBGlCEtw&lt;/p&gt;
+</description>
+        <pubDate>Tue, 24 Feb 2015 14:57:54 -0300</pubDate>
+        <link>http://pet.inf.ufsc.br/~evsasse/sitepet/_site/2015/02/24/Oficina-de-Computacao-de-Alto-Desempenho.html</link>
+        <guid isPermaLink="true">http://pet.inf.ufsc.br/~evsasse/sitepet/_site/2015/02/24/Oficina-de-Computacao-de-Alto-Desempenho.html</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Certificados da SECCOM 2014 liberados!</title>
+        <description>&lt;p&gt;Você já pode acessar o seu certificado de participação dos minicursos da SECCOM em &lt;a href=&quot;http://certificado.prpe.ufsc.br/&quot;&gt;http://certificado.prpe.ufsc.br/&lt;/a&gt;&lt;/p&gt;
+</description>
+        <pubDate>Mon, 10 Nov 2014 13:28:59 -0200</pubDate>
+        <link>http://pet.inf.ufsc.br/~evsasse/sitepet/_site/2014/11/10/certificados-da-seccom-2014-liberados.html</link>
+        <guid isPermaLink="true">http://pet.inf.ufsc.br/~evsasse/sitepet/_site/2014/11/10/certificados-da-seccom-2014-liberados.html</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>O site da SECCOM 2014 está no ar!</title>
+        <description>&lt;p&gt;Confira os horários das palestras e minicursos acessando &lt;a href=&quot;http://pet.inf.ufsc.br/seccom/&quot;&gt;http://pet.inf.ufsc.br/seccom/&lt;/a&gt;&lt;/p&gt;
+</description>
+        <pubDate>Mon, 10 Nov 2014 13:13:35 -0200</pubDate>
+        <link>http://pet.inf.ufsc.br/~evsasse/sitepet/_site/2014/11/10/O-site-da-SECCOM-2014-esta-no-ar.html</link>
+        <guid isPermaLink="true">http://pet.inf.ufsc.br/~evsasse/sitepet/_site/2014/11/10/O-site-da-SECCOM-2014-esta-no-ar.html</guid>
+        
+        
+      </item>
+    
+  </channel>
+</rss>

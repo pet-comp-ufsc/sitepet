@@ -1,0 +1,10 @@
+# Site settings
+title: PET Computação
+email: pet.ine@contato.ufsc.br
+description: Ciências da Computação e Sistemas de Informação
+baseurl: "/~evsasse/sitepet/_site" # the subpath of your site, e.g. /blog/
+url: "http://pet.inf.ufsc.br" # the base hostname & protocol for your site
+github_username: pet-comp-ufsc
+
+# Build settings
+markdown: kramdown
