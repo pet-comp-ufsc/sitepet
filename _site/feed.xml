@@ -3,10 +3,10 @@
   <channel>
     <title>PET Computação</title>
     <description>Ciências da Computação e Sistemas de Informação</description>
-    <link>http://pet.inf.ufsc.br/~evsasse/sitepet/_site/</link>
-    <atom:link href="http://pet.inf.ufsc.br/~evsasse/sitepet/_site/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 17 Aug 2015 21:35:19 -0300</pubDate>
-    <lastBuildDate>Mon, 17 Aug 2015 21:35:19 -0300</lastBuildDate>
+    <link>http://pet.inf.ufsc.br/</link>
+    <atom:link href="http://pet.inf.ufsc.br/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Mon, 17 Aug 2015 21:50:54 -0300</pubDate>
+    <lastBuildDate>Mon, 17 Aug 2015 21:50:54 -0300</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
     
       <item>
@@ -14,8 +14,8 @@
         <description>&lt;p&gt;Você pode acessar o formulário de inscrições clicando &lt;a href=&quot;https://goo.gl/njNUSZ&quot;&gt;aqui&lt;/a&gt;.&lt;/p&gt;
 </description>
         <pubDate>Mon, 17 Aug 2015 17:59:16 -0300</pubDate>
-        <link>http://pet.inf.ufsc.br/~evsasse/sitepet/_site/2015/08/17/inscricoes-pet.html</link>
-        <guid isPermaLink="true">http://pet.inf.ufsc.br/~evsasse/sitepet/_site/2015/08/17/inscricoes-pet.html</guid>
+        <link>http://pet.inf.ufsc.br/2015/08/17/inscricoes-pet.html</link>
+        <guid isPermaLink="true">http://pet.inf.ufsc.br/2015/08/17/inscricoes-pet.html</guid>
         
         
       </item>
@@ -31,8 +31,8 @@
 &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://github.com/pet-comp-ufsc/linux-crash-course&quot;&gt;Você pode ver os slides aqui&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
 </description>
         <pubDate>Wed, 08 Apr 2015 07:55:12 -0300</pubDate>
-        <link>http://pet.inf.ufsc.br/~evsasse/sitepet/_site/2015/04/08/linux-crash-course.html</link>
-        <guid isPermaLink="true">http://pet.inf.ufsc.br/~evsasse/sitepet/_site/2015/04/08/linux-crash-course.html</guid>
+        <link>http://pet.inf.ufsc.br/2015/04/08/linux-crash-course.html</link>
+        <guid isPermaLink="true">http://pet.inf.ufsc.br/2015/04/08/linux-crash-course.html</guid>
         
         
       </item>
@@ -44,8 +44,8 @@
 &lt;p&gt;E gostariamos que os participantes respondessem um questionário para avaliarmos oque vocês acharam do minicurso: &lt;a href=&quot;http://goo.gl/Y83LcB&quot;&gt;goo.gl/Y83LcB&lt;/a&gt;&lt;/p&gt;
 </description>
         <pubDate>Mon, 16 Mar 2015 06:21:54 -0300</pubDate>
-        <link>http://pet.inf.ufsc.br/~evsasse/sitepet/_site/2015/03/16/Certificados-e-Questionario-do-Minicurso-de-Computacao-de-Alto-Desempenho.html</link>
-        <guid isPermaLink="true">http://pet.inf.ufsc.br/~evsasse/sitepet/_site/2015/03/16/Certificados-e-Questionario-do-Minicurso-de-Computacao-de-Alto-Desempenho.html</guid>
+        <link>http://pet.inf.ufsc.br/2015/03/16/Certificados-e-Questionario-do-Minicurso-de-Computacao-de-Alto-Desempenho.html</link>
+        <guid isPermaLink="true">http://pet.inf.ufsc.br/2015/03/16/Certificados-e-Questionario-do-Minicurso-de-Computacao-de-Alto-Desempenho.html</guid>
         
         
       </item>
@@ -55,8 +55,8 @@
         <description>&lt;p&gt;Você já pode acessar o seu certificado de participação dos minicursos da SECCOM em &lt;a href=&quot;http://certificado.prpe.ufsc.br/&quot;&gt;http://certificado.prpe.ufsc.br/&lt;/a&gt;&lt;/p&gt;
 </description>
         <pubDate>Mon, 10 Nov 2014 13:28:59 -0200</pubDate>
-        <link>http://pet.inf.ufsc.br/~evsasse/sitepet/_site/2014/11/10/certificados-da-seccom-2014-liberados.html</link>
-        <guid isPermaLink="true">http://pet.inf.ufsc.br/~evsasse/sitepet/_site/2014/11/10/certificados-da-seccom-2014-liberados.html</guid>
+        <link>http://pet.inf.ufsc.br/2014/11/10/certificados-da-seccom-2014-liberados.html</link>
+        <guid isPermaLink="true">http://pet.inf.ufsc.br/2014/11/10/certificados-da-seccom-2014-liberados.html</guid>
         
         
       </item>
